@@ -1,0 +1,40 @@
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+.orenge-spam{
+    color: darkorange;
+}
+.flexiable{
+    display: flex;
+    
+}
+.flexiable-div{
+width: 50%;
+margin-left: 2%;
+padding-left: 3%;
+}
+
+.flexiable-div img{
+    width: 70%;
+}
+.style-div{
+    margin-top: 5%;
+    padding-top: 2%;
+
+}
+.button{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(red,tomato);
+    border-radius: 5px;
+    width: 20%;
+    text-align: center;
+    padding: 2px 10px;
+    
+}
+.cover-photo{
+background-image: url(images/shapes/Frame\ 58.jpg);
+background-repeat: no-repeat;
+margin: 0;
+border-radius: 2%;
+}
