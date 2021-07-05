@@ -35,6 +35,11 @@ padding-left: 3%;
 .cover-photo{
 background-image: url(images/shapes/Frame\ 58.jpg);
 background-repeat: no-repeat;
-margin: 0;
+margin-top: 0;
 border-radius: 2%;
+padding-bottom: 2%;
+margin-bottom: 3%;
+}
+.cover-photo2{
+background-image: url(images/shapes/7.png);
 }
