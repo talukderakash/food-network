@@ -26,10 +26,11 @@ padding-left: 3%;
     text-decoration: none;
     color: rgb(255, 255, 255);
     background-image: linear-gradient(red,tomato);
-    border-radius: 5px;
+    border-radius: 7px;
     width: 20%;
     text-align: center;
     padding: 2px 10px;
+    margin-top:  50%;;
     
 }
 .cover-photo{
@@ -42,4 +43,16 @@ margin-bottom: 3%;
 }
 .cover-photo2{
 background-image: url(images/shapes/7.png);
+border-radius: 5px;
+background-repeat: no-repeat;
+}
+#second-div{
+padding-right: 5%;
+padding-top: 15%;
+margin-right: 3%;
+}
+#color-heading{
+    color: hotpink;
+    
+
 }
