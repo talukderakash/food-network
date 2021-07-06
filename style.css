@@ -1,3 +1,11 @@
+.head{
+    text-align: center;
+    background-image: url(images/download.jpg);
+    border-radius: 15px;
+    color:rgb(213, 47, 255);
+}
+
+
 h1{
     font-family: 'Oswald', sans-serif;
 }
@@ -61,6 +69,31 @@ margin-bottom: 08%;
 #paragraph-one{
     margin-bottom: 05%; 
 }
+.etra-flex{
+    display: flex;
+    margin-top: 4%;
+    margin-left: 05%;
+    margin-right: 05%;
+}
+.extra-part1{
+    padding-left:15% ;
+    padding-right: 10%;
+}
+.extra-part2{
+    padding-left:10% ;
+    padding-right: 10%;
+}
+.extra-part3{
+    padding-left:13% ;
+    padding-right: 10%;
+}
+.extra-part-shadow{
+    border-radius: 15px;
+    box-shadow: 10px 10px 30px gray;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
 .footer-color{
     background-color: black;
     color: white;
