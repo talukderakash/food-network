@@ -1,11 +1,14 @@
 .head{
     text-align: center;
     background-image: url(images/download.jpg);
-    border-radius: 15px;
     color:rgb(213, 47, 255);
 }
 
-
+.head2{
+text-align: initial;
+color: rgb(0, 205, 62);
+text-decoration-color: olive;
+}
 h1{
     font-family: 'Oswald', sans-serif;
 }
