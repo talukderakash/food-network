@@ -94,8 +94,7 @@ margin-top: 4%;
 }
 .recipies-style{
     width: 30%;
-    padding-left: 02%;
-    padding-right: 02%;
+    padding-right: 2%;
     box-shadow: 10px 10px 30px gray;
     border-radius: 10px;
     border: 15px white solid;
@@ -107,4 +106,7 @@ margin-top: 4%;
 .div-style{
 margin-left: 10px;
 margin-right: 10px;
+}
+#fixid{
+margin-left: 0;
 }
