@@ -30,7 +30,7 @@ padding-left: 3%;
     width: 20%;
     text-align: center;
     padding: 2px 10px;
-    margin-top:  50%;;
+    
     
 }
 .cover-photo{
@@ -51,8 +51,60 @@ padding-right: 5%;
 padding-top: 15%;
 margin-right: 3%;
 }
-#color-heading{
+#color-heading
+{
     color: hotpink;
-    
+    }
+#paragraph{
+margin-bottom: 08%;
+}
+#paragraph-one{
+    margin-bottom: 05%; 
+}
+.footer-color{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 5px;
+}
+.love{
+    color: red;
+}
+#footer-color-spam{
+    color: rgb(0, 236, 0);
 
+}
+.recipies{
+    margin-top: 5%;
+    text-align: center;
+    
+}
+.recipies-one{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#flexiable{
+display: flex;
+margin-top: 4%;
+margin-left: 5%;
+}
+.recipies-style{
+    width: 30%;
+    padding-left: 02%;
+    padding-right: 02%;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+    border: 15px white solid;
+
+}
+.recipies-style img{
+    width: 110%;
+}
+.div-style{
+margin-left: 10px;
+margin-right: 10px;
 }
